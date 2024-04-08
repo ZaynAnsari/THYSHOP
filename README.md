@@ -3,5 +3,5 @@ Created an ecommerce website where customer can view, search, add to cart and de
 ## HOW IT WORKS
 Clone the repository and activate the virtual environment and django server and then go to http://127.0.0.1:8000/ and you can use the shopping site.
 ### Frameworks and Libraries
-I've used the django framework for the backend side of site and used jquery and bootstrap for the frontend side.
+I've used the python, django framework for the backend of site and used html, css,javascript,jquery and bootstrap for the frontend.
 
